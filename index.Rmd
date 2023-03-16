@@ -92,13 +92,11 @@ O curso compreende três grandes tópicos:
 
 ---
 
-## Material de apoio
+## Referências bibliográficas
+
+### Material de apoio
 
 Playlist de Estatística Básica do Departamento de Estatística: http://www.leg.ufpr.br/~paulojus/estbas/.
-
----
-
-## Referências bibliográficas
 
 ### Referências básicas
 
@@ -137,8 +135,8 @@ Playlist de Estatística Básica do Departamento de Estatística: http://www.leg
   - Centro politécnico.
   - Prédio do setor de ciências exatas (PA).
   - Departamento de Estatística (2º andar).
-  - Laboratório de Estatística e Geoinformação (sala - )
-  - Sala 
+  - Laboratório de Estatística e Geoinformação (sala 232)
+  - Sala 225.
 
 ---
 

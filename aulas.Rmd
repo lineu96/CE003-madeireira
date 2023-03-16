@@ -32,37 +32,84 @@ output:
 
 # Histórico de aulas do curso
 
+**Semana 1**
+
  - 21/03/23 (ter) - Aula 1
  - 23/03/23 (qui) - Aula 2
+
+**Semana 2**
+
  - 28/03/23 (ter) - Aula 3
  - 30/03/23 (qui) - Aula 4
+
+**Semana 3**
+
  - 04/04/23 (ter) - Aula 5
  - 06/04/23 (qui) - Aula 6
+
+**Semana 4**
+
  - 11/04/23 (ter) - Aula 7
  - 13/04/23 (qui) - Aula 8
+
+**Semana 5**
+
  - 18/04/23 (ter) - Aula 9
  - 20/04/23 (qui) - Aula 10
+
+**Semana 6**
+
  - 25/04/23 (ter) - Aula 11
  - 27/04/23 (qui) - Aula 12
+
+**Semana 7**
+
  - 02/05/23 (ter) - Aula 13
  - 04/05/23 (qui) - Aula 14
+
+**Semana 8**
+
  - 09/05/23 (ter) - Aula 15
  - 11/05/23 (qui) - Aula 16
+
+**Semana 9**
+
  - 16/05/23 (ter) - Aula 17
  - 18/05/23 (qui) - Aula 18
+
+**Semana 10**
+
  - 23/05/23 (ter) - Aula 19
  - 25/05/23 (qui) - Aula 20
+
+**Semana 11**
+
  - 30/05/23 (ter) - Aula 21
  - 01/06/23 (qui) - Aula 22/Feira de Cursos e Profissões.
+
+**Semana 12**
+
  - 06/06/23 (ter) - Aula 23
  - 08/06/23 (qui) - **Feriado: Corpus Christi.**
+
+**Semana 13**
+
  - 13/06/23 (ter) - Aula 24
  - 15/06/23 (qui) - Aula 25
+
+**Semana 14**
+
  - 20/06/23 (ter) - Aula 26
  - 22/06/23 (qui) - Aula 27
+
+**Semana 15**
+
  - 27/06/23 (ter) - Aula 28
  - 29/06/23 (qui) - Aula 29
  - 01/07/23 (sáb) - **Término do período letivo 2023/1.**
+ 
+**Exames**
+
  - 04/07/23 (ter) - **Período de EXAMES FINAIS.**
  - 06/07/23 (qui) - **Período de EXAMES FINAIS.**
 

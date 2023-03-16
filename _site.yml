@@ -15,10 +15,6 @@ navbar:
       icon: fa-calendar
       href: aulas.html
 
-    - text: "Notas"
-      icon: fa-table
-      href: notas.html
-      
     - text: "Material de aula"
       icon: fa-graduation-cap
       menu:
@@ -51,7 +47,10 @@ navbar:
 
         - text: "---------" 
         
-
+    - text: "Notas"
+      icon: fa-table
+      href: notas.html
+      
   right:
     - text: "Lineu A.C.F"
       icon: fa-user 
