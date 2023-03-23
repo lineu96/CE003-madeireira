@@ -41,8 +41,8 @@ output:
  - **Período**: Primeiro semestre de 2023.
 
  - **Locais e horários**:
-    - Terça, 13:30 - 15:30, LOCAL.
-    - Quinta, 13:30 - 15:30, LOCAL.
+    - Terça, 13:30 - 15:30, PF-07.
+    - Quinta, 13:30 - 15:30, PF-07.
 
 \ 
 
@@ -54,6 +54,25 @@ output:
     - **20/03/23**: início do período letivo.
     - **01/07/23**: término do período letivo.
     - **03/07/23 a 08/07/23**: semana de exames finais.
+
+---
+
+## Informações de contato
+
+**Professor responsável**: Lineu Alberto Cavazani de Freitas.
+
+**Comunicação**: 
+
+  - Como plataforma de comunicação será utilizado o Microsoft Teams da UFPR.
+  - Para conversas particulares contatar via chat privado do Teams ou pelo e-mail lineu.alberto@ufpr.br.
+
+**Sala do professor**:
+
+  - Centro politécnico.
+  - Prédio do setor de ciências exatas (PA).
+  - Departamento de Estatística (2º andar).
+  - Laboratório de Estatística e Geoinformação (sala 232)
+  - Sala 225.
 
 ---
 
@@ -118,25 +137,6 @@ Playlist de Estatística Básica do Departamento de Estatística: http://www.leg
  - Navidi, W. Probabilidade e estatística para ciências exatas. Porto Alegre: Bookman, 2012.
 
  - Spiegel, MR; Schiller, J; Srinivasan, A. Probabilidade e estatística. Porto Alegre: Bookman, 2013.
-
----
-
-## Informações de contato
-
-**Professor responsável**: Lineu Alberto Cavazani de Freitas.
-
-**Comunicação**: 
-
-  - Como plataforma de comunicação será utilizado o Microsoft Teams da UFPR.
-  - Para conversas particulares contatar via chat privado do Teams ou pelo e-mail lineu.alberto@ufpr.br.
-
-**Sala do professor**:
-
-  - Centro politécnico.
-  - Prédio do setor de ciências exatas (PA).
-  - Departamento de Estatística (2º andar).
-  - Laboratório de Estatística e Geoinformação (sala 232)
-  - Sala 225.
 
 ---
 
