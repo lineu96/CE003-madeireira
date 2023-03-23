@@ -13,7 +13,7 @@
 
 <title>Estatística II</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
@@ -30,7 +30,7 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<script src="site_libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<script src="site_libs/htmlwidgets-1.6.1/htmlwidgets.js"></script>
 <link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
 <script src="site_libs/datatables-binding-0.27/datatables.js"></script>
 <link href="site_libs/dt-core-1.12.1/css/jquery.dataTables.min.css" rel="stylesheet" />
@@ -139,11 +139,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -172,8 +176,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -181,16 +185,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -350,8 +347,8 @@ $(document).ready(function () {
 <p>Busque sua situação digitando seu GRR na caixa “Search”.</p>
 <p><br />
 </p>
-<div id="htmlwidget-cdd8f5d67e2098aa39c1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-cdd8f5d67e2098aa39c1">{"x":{"filter":"none","vertical":false,"editable":{"target":"cell","disable":{"columns":null},"numeric":[1,2],"area":[]},"data":[["GRR2023000","GRR2023001","GRR2023002","GRR2023003","GRR2023004","GRR2023005","GRR2023006","GRR2023007","GRR2023008","GRR2023009","GRR2023010","GRR2023011","GRR2023012","GRR2023013","GRR2023014","GRR2023015","GRR2023016","GRR2023017","GRR2023018","GRR2023019","GRR2023020"],[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]],"container":"<table class=\"cell-border stripe\">\n  <thead>\n    <tr>\n      <th>GRR<\/th>\n      <th>FALTAS<\/th>\n      <th>S1<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"className":"dt-right","targets":[1,2]}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<div class="datatables html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-15f940fabc344b82f3e4" style="width:100%;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-15f940fabc344b82f3e4">{"x":{"filter":"none","vertical":false,"editable":{"target":"cell","disable":{"columns":null},"numeric":[1],"area":[]},"data":[["GRR20182666","GRR20224231","GRR20222161","GRR20215807","GRR20212977","GRR20177458","GRR20211361","GRR20210361","GRR20173235","GRR20212937","GRR20213825","GRR20224216","GRR20195301","GRR20212891","GRR20220385","GRR20224212","GRR20222151","GRR20224913","GRR20213156","GRR20224912","GRR20212978","GRR20222165","GRR20202359","GRR20224220","GRR20220395","GRR20207140","GRR20222164","GRR20224907","GRR20133223","GRR20223475","GRR20205597","GRR20222059","GRR20200165","GRR20223472","GRR20223951","GRR20220370","GRR20203430","GRR20222142","GRR20212968","GRR20221911","GRR20220367"],[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]],"container":"<table class=\"cell-border stripe\">\n  <thead>\n    <tr>\n      <th>GRR<\/th>\n      <th>FALTAS<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"className":"dt-right","targets":1}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
 <hr />
 </div>
 <div id="análise-das-notas"
@@ -390,8 +387,8 @@ class="section level1 tabset tabset-fade tabset-pills">
 </tr>
 </tbody>
 </table>
-<pre><code>## Warning in mean.default(vetor): argumento não é numérico nem
-## lógico: retornando NA</code></pre>
+<pre><code>## Warning in mean.default(vetor): argumento não é numérico nem lógico: retornando
+## NA</code></pre>
 <table style="width:83%;">
 <colgroup>
 <col width="12%" />
