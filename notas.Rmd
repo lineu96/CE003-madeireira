@@ -69,7 +69,7 @@ dispersao <- function(vetor){
 
 #----------------------------------------------------------------------
 
-notas <- read.csv2('controle/notas.csv')
+notas <- read.csv('controle/notas.csv')
 
 DT::datatable(notas[,c('GRR', 'FALTAS')], class = 'cell-border stripe',
               rownames = F,
