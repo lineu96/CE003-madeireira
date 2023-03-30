@@ -39,8 +39,8 @@ output:
 
 **Semana 2**
 
- - 28/03/23 (ter) - Aula 3
- - 30/03/23 (qui) - Aula 4
+ - 28/03/23 (ter) - Aula 3: Análise exploratória univariada para variáveis qualitativas (tabelas e gráficos).
+ - 30/03/23 (qui) - Aula 4: Análise exploratória univariada para variáveis quantitativas (tabelas e gráficos).
 
 **Semana 3**
 

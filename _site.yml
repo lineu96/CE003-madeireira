@@ -33,6 +33,14 @@ navbar:
           icon: fa-arrow-right
           href: slides/102-amostragem.pdf
 
+        - text: "Exploratória univariada qualitativas (tabelas e gráficos)"
+          icon: fa-arrow-right
+          href: slides/201-exploratoria-quali-uni.pdf
+
+        - text: "Exploratória univariada quantitativas (tabelas e gráficos)"
+          icon: fa-arrow-right
+          href: slides/202-exploratoria-quant-uni.pdf
+          
         - text: "---------" 
 
     - text: "Exercícios sugeridos"
