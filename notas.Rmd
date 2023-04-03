@@ -71,7 +71,7 @@ dispersao <- function(vetor){
 
 notas <- read.csv('controle/notas.csv')
 
-DT::datatable(notas[,c('GRR', 'FALTAS')], class = 'cell-border stripe',
+DT::datatable(notas[,c('GRR', 'FALTAS','S1')], class = 'cell-border stripe',
               rownames = F,
               #filter = 'top',
               editable = T
@@ -88,7 +88,6 @@ DT::datatable(notas[,c('GRR', 'FALTAS')], class = 'cell-border stripe',
 <center>
 ```{r, echo=FALSE}
 pander::pander(posicao(notas$S1))
-pander::pander(posicao(notas$S2))
 ```
 </center>
 
