@@ -39,22 +39,22 @@ output:
 
 **Semana 2**
 
- - 28/03/23 (ter) - Aula 3: Análise exploratória univariada para variáveis qualitativas (tabelas e gráficos).
- - 30/03/23 (qui) - Aula 4: Análise exploratória univariada para variáveis quantitativas (tabelas e gráficos).
+ - 28/03/23 (ter) - Aula 3: Tabelas e gráficos para variáveis qualitativas.
+ - 30/03/23 (qui) - Aula 4: Tabelas e gráficos para variáveis quantitativas.
 
 **Semana 3**
 
- - 04/04/23 (ter) - Aula 5
- - 06/04/23 (qui) - Aula 6
+ - 04/04/23 (ter) - Aula 5: Medidas de posição.
+ - 06/04/23 (qui) - Aula 6: Medidas de dispersão.
 
 **Semana 4**
 
- - 11/04/23 (ter) - Aula 7
- - 13/04/23 (qui) - Aula 8
+ - 11/04/23 (ter) - Aula 7: Análises bivariadas.
+ - 13/04/23 (qui) - Aula 8: TURMA DISPENSADA PARA ESTUDOS.
 
 **Semana 5**
 
- - 18/04/23 (ter) - Aula 9
+ - 18/04/23 (ter) - Aula 9: PROVA 1
  - 20/04/23 (qui) - Aula 10
 
 **Semana 6**

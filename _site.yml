@@ -33,27 +33,35 @@ navbar:
           icon: fa-arrow-right
           href: slides/102-amostragem.pdf
 
-        - text: "Exploratória univariada qualitativas (tabelas e gráficos)"
+        - text: "Tabelas e gráficos para variáveis qualitativas"
           icon: fa-arrow-right
           href: slides/201-exploratoria-quali-uni.pdf
 
-        - text: "Exploratória univariada quantitativas (tabelas e gráficos)"
+        - text: "Tabelas e gráficos para variáveis quantitativas"
           icon: fa-arrow-right
           href: slides/202-exploratoria-quant-uni.pdf
+
+        - text: "Medidas de posição"
+          icon: fa-arrow-right
+          href: slides/203-exploratoria-medidas-posicao.pdf
+
+        - text: "Medidas de dispersão"
+          icon: fa-arrow-right
+          href: slides/204-exploratoria-medidas-dispersao.pdf
           
         - text: "---------" 
 
-    - text: "Exercícios sugeridos"
-      icon: fa-pen
-      menu:
-
-        - text: "---------" 
-
-        - text: "..."
-          icon: fa-arrow-right
-          href: 
-
-        - text: "---------" 
+    # - text: "Exercícios sugeridos"
+    #   icon: fa-pen
+    #   menu:
+    # 
+    #     - text: "---------" 
+    # 
+    #     - text: "..."
+    #       icon: fa-arrow-right
+    #       href: 
+    # 
+    #     - text: "---------" 
         
     - text: "Notas"
       icon: fa-table
