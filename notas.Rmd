@@ -101,7 +101,7 @@ p1 = ggplot(notas) +
                  position="identity",
                  col = 1,
                  lwd = 1,
-                 breaks = hist(notas$S1, plot = FALSE)$breaks) + 
+                 breaks = seq(0,10,0.5)) + 
   geom_density(aes(x=S1,
                    y=..density..),
                col = 4,
