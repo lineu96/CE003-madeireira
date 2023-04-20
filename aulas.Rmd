@@ -55,7 +55,7 @@ output:
 **Semana 5**
 
  - 18/04/23 (ter) - Aula 9: PROVA 1
- - 20/04/23 (qui) - Aula 10
+ - 20/04/23 (qui) - Aula 10: Introdução a probabilidades
 
 **Semana 6**
 
