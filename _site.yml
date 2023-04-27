@@ -48,6 +48,18 @@ navbar:
         - text: "Medidas de dispersão"
           icon: fa-arrow-right
           href: slides/204-exploratoria-medidas-dispersao.pdf
+
+        - text: "Introdução a probabilidades"
+          icon: fa-arrow-right
+          href: slides/300-intro-prob.pdf
+
+        - text: "Operações com probabilidades"
+          icon: fa-arrow-right
+          href: slides/301-operacoes-com-probabilidades.pdf
+          
+        - text: "Teorema de Bayes"
+          icon: fa-arrow-right
+          href: slides/302-teorema-de-bayes.pdf
           
         - text: "---------" 
 

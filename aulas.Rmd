@@ -55,12 +55,12 @@ output:
 **Semana 5**
 
  - 18/04/23 (ter) - Aula 9: PROVA 1
- - 20/04/23 (qui) - Aula 10: Introdução a probabilidades
+ - 20/04/23 (qui) - Aula 10: Introdução a probabilidades.
 
 **Semana 6**
 
- - 25/04/23 (ter) - Aula 11
- - 27/04/23 (qui) - Aula 12
+ - 25/04/23 (ter) - Aula 11: Operações com probabilidades.
+ - 27/04/23 (qui) - Aula 12: Partição do espaço amostral, teorema da probabilidade total e teorema de Bayes.
 
 **Semana 7**
 
