@@ -64,32 +64,32 @@ output:
 
 **Semana 7**
 
- - 02/05/23 (ter) - Aula 13
- - 04/05/23 (qui) - Aula 14
+ - 02/05/23 (ter) - Aula 13: Variáveis aleatórias
+ - 04/05/23 (qui) - Aula 14: Distribuições de probabilidade
 
 **Semana 8**
 
- - 09/05/23 (ter) - Aula 15
- - 11/05/23 (qui) - Aula 16
+ - 09/05/23 (ter) - Aula 15: Tabela Normal + Exercícios
+ - 11/05/23 (qui) - Aula 16: Exercícios
 
 **Semana 9**
 
- - 16/05/23 (ter) - Aula 17
- - 18/05/23 (qui) - Aula 18
+ - 16/05/23 (ter) - Aula 17: Exercícios
+ - 18/05/23 (qui) - Aula 18: TURMA DISPENSADA PARA ESTUDOS.
 
 **Semana 10**
 
- - 23/05/23 (ter) - Aula 19
- - 25/05/23 (qui) - Aula 20
+ - 23/05/23 (ter) - Aula 19: PROVA 2
+ - 25/05/23 (qui) - Aula 20: Introdução à inferência
 
 **Semana 11**
 
- - 30/05/23 (ter) - Aula 21
- - 01/06/23 (qui) - Aula 22/Feira de Cursos e Profissões.
+ - 30/05/23 (ter) - Aula 21: Estimação pontual e intervalar (média e proporção)
+ - 01/06/23 (qui) - Aula 22: tamanho amostral + Exercícios
 
 **Semana 12**
 
- - 06/06/23 (ter) - Aula 23
+ - 06/06/23 (ter) - Aula 23: Introdução aos testes de hipóteses.
  - 08/06/23 (qui) - **Feriado: Corpus Christi.**
 
 **Semana 13**

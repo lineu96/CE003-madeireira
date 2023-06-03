@@ -15,54 +15,6 @@ navbar:
       icon: fa-calendar
       href: aulas.html
 
-    - text: "Material de aula"
-      icon: fa-graduation-cap
-      menu:
-
-        - text: "---------" 
-
-        - text: "Introdução"
-          icon: fa-arrow-right
-          href: slides/100-introducao.pdf
-
-        - text: "Dados"
-          icon: fa-arrow-right
-          href: slides/101-dados.pdf
-          
-        - text: "Amostragem"
-          icon: fa-arrow-right
-          href: slides/102-amostragem.pdf
-
-        - text: "Tabelas e gráficos para variáveis qualitativas"
-          icon: fa-arrow-right
-          href: slides/201-exploratoria-quali-uni.pdf
-
-        - text: "Tabelas e gráficos para variáveis quantitativas"
-          icon: fa-arrow-right
-          href: slides/202-exploratoria-quant-uni.pdf
-
-        - text: "Medidas de posição"
-          icon: fa-arrow-right
-          href: slides/203-exploratoria-medidas-posicao.pdf
-
-        - text: "Medidas de dispersão"
-          icon: fa-arrow-right
-          href: slides/204-exploratoria-medidas-dispersao.pdf
-
-        - text: "Introdução a probabilidades"
-          icon: fa-arrow-right
-          href: slides/300-intro-prob.pdf
-
-        - text: "Operações com probabilidades"
-          icon: fa-arrow-right
-          href: slides/301-operacoes-com-probabilidades.pdf
-          
-        - text: "Teorema de Bayes"
-          icon: fa-arrow-right
-          href: slides/302-teorema-de-bayes.pdf
-          
-        - text: "---------" 
-
     # - text: "Exercícios sugeridos"
     #   icon: fa-pen
     #   menu:
