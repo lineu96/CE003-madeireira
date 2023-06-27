@@ -94,18 +94,18 @@ output:
 
 **Semana 13**
 
- - 13/06/23 (ter) - Aula 24
- - 15/06/23 (qui) - Aula 25
+ - 13/06/23 (ter) - Testes de hipóteses para média e proporção.
+ - 15/06/23 (qui) - Exercícios.
 
 **Semana 14**
 
- - 20/06/23 (ter) - Aula 26
- - 22/06/23 (qui) - Aula 27
+ - 20/06/23 (ter) - Métodos estatísticos.
+ - 22/06/23 (qui) - TURMA DISPENSADA PARA ESTUDOS.
 
 **Semana 15**
 
- - 27/06/23 (ter) - Aula 28
- - 29/06/23 (qui) - Aula 29
+ - 27/06/23 (ter) - PROVA 3.
+ - 29/06/23 (qui) - 
  - 01/07/23 (sáb) - **Término do período letivo 2023/1.**
  
 **Exames**
